@@ -1,0 +1,11 @@
+C:\Users\jamal\source\repos\th11\th11\bin\Debug\th11.exe.config
+C:\Users\jamal\source\repos\th11\th11\bin\Debug\th11.exe
+C:\Users\jamal\source\repos\th11\th11\bin\Debug\th11.pdb
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.csprojAssemblyReference.cache
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.Form1.resources
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.Properties.Resources.resources
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.csproj.GenerateResource.cache
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.exe
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.pdb
+C:\Users\jamal\source\repos\th11\th11\obj\Debug\th11.Registration.resources
